@@ -53,7 +53,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/freelance-program-assidigital-freccia-giu-1400x878.png",
+              "src": "@PROJECT_PATH@/assets/images/franchising-formula-assidigital-png-1400x614.png",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -176,7 +176,7 @@
               "font-size": "25px"
             },
             ".mbr-section__container .mbr-section-title B": {
-              "color": "#bb412e",
+              "color": "#1f8068",
               "font-size": "72px"
             },
             ".mbr-plan-price-desc": {
