@@ -1,0 +1,2 @@
+# assidigital-franchising
+GitHub Pages
