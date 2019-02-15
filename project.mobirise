@@ -55,9 +55,10 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/franchising-formula-assidigital-png-1400x614.png",
               "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": ""
+              "link": "https://docs.google.com/forms/d/e/1FAIpQLScYS74e0lZJT6iQUyz6ZMIPa9oIENsVUTKoYoPeDB8_Db7yCQ/viewform",
+              "alt": "franchising assicurativo",
+              "title": "assicurazioni franchising",
+              "linkInNewWindow": true
             },
             "video": {
               "src": "http://www.youtube.com/watch?v=fwkKc6M60-0"
@@ -147,7 +148,7 @@
           "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Mobirise horizontal navigation menu collapses on devices to a single-icon mobile menu, also know as \"hamburger menu\", for a flawless mobile experience for all visitors.</li><li class=\"list-group-item\">Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community.</li><li class=\"list-group-item\">20 GB bandwidth</li></ul>",
           "button1": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSeGjoB_mR-ppUk-lKnMZazCAQPpm-uoBJgkC2Zbv9KKkhxRzA/viewform\" class=\"btn btn-lg btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Scopri di più</a> ",
           "button2": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSeGjoB_mR-ppUk-lKnMZazCAQPpm-uoBJgkC2Zbv9KKkhxRzA/viewform\" class=\"btn btn-lg btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Scopri di più</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSeGjoB_mR-ppUk-lKnMZazCAQPpm-uoBJgkC2Zbv9KKkhxRzA/viewform\" class=\"btn btn-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SCOPRI DI PIU'</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://docs.google.com/forms/d/e/1FAIpQLScYS74e0lZJT6iQUyz6ZMIPa9oIENsVUTKoYoPeDB8_Db7yCQ/viewform\" class=\"btn btn-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SCOPRI DI PIU'</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-lg btn-primary\">DEMO</a>",
           "_tags": [
             "Tema"
