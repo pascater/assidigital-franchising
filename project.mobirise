@@ -29,7 +29,7 @@
     "versionFirst": "4.8.10",
     "siteFonts": [],
     "uniqCompNum": 31,
-    "versionPublish": "4.9.1",
+    "versionPublish": "4.9.3",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "",
